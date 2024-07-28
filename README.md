@@ -6,4 +6,4 @@ Just a test file to see if I can use this "git hut" thing. ;)
 
 590.sav just a random upload :P
 
-360.sav - endgame assist, pretty sure it's "clean" for side quests? Heavy modded gear.
+360.sav - endgame assist, pretty sure it's "clean" for side quests? Iffy on the modded gear, some max, some not
