@@ -14,8 +14,9 @@ Good luck fixing it otherwise! :D
 
 5. $1B eridium and a Gun-Gun
 
+==================
 
-older, no promises ^_^
+Older, no promises ^_^
 
 profile.sav - keys and whatnot, I mainly put it here for the Bank of modded gear. Some of it is kinda bananas, most of it will crash your money if you sell it. :)
 
