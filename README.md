@@ -4,7 +4,7 @@ Good luck fixing it otherwise! :D
 
 200.sav - 19 Aug 2024 - WHAT'S IN THIS:
 
-1. Modded Moze character. EXTRA skill points, if you level up or respect, any unspent EXTRA points will be lost on save-exit. You won't go lower than the max you're supposed to have, but only reloading the save (or using a cheat) will get you EXTRA skill points. You start on Sanctuary but before doing anything else.
+1. Modded Moze character. EXTRA skill points, if you level up or respec, any unspent EXTRA points will be lost on save-exit. You won't go lower than the max you're supposed to have, but only reloading the save (or using a cheat) will get you EXTRA skill points. You start on Sanctuary but before doing anything else.
 
 2. A bunch of modded gear. Some of it is DLC dependent, some is DLC dependant so sorry if you don't have the DLC. :( It's honestly worth it, it'll be on sale soon. :) Other than the exception below, don't sell this gear. It's worth more than the max money you can have and you'll have $0 and no gear. :P 
 
