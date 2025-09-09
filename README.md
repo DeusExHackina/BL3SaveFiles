@@ -31,3 +31,5 @@ profile.sav - keys and whatnot, I mainly put it here for the Bank of modded gear
 590.sav just a random upload :P
 
 360.sav - endgame assist, pretty sure it's "clean" for side quests? Iffy on the modded gear, some max, some not
+
+7.sav -  someone else's work. It has probably? all cosmetics for BL3. It is SUPER LAGGY, if you use it, set your graphics as low as possible and still expect lag.
